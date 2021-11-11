@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Keyl0ve)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Keyl0ve&count_private=true&theme=react)
