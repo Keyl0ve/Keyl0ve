@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Keyl0ve&count_private=true&hide=stars&hide=contributed&theme=react)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Keyl0ve&count_private=true&hide=stars&theme=react)
 <!-- ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyl0ve&layout=compact&theme=react)
  -->
